@@ -1,4 +1,7 @@
 # Hi 👋, I'm Kenguva Ashwini
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kenguvaashwini/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Ashwini405)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ashwinikenguva@gmail.com)
 
 💼 Full Stack Developer @ Galacticos Network Pvt. Ltd.
 
