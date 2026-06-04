@@ -15,11 +15,12 @@
 
 ## 📊 GitHub Stats
 
-![Ashwini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwini405&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwini405&show_icons=true&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashwini405)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashwini405)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwini405&layout=compact)
+
 
 ## 🛠️ Tech Stack
 
