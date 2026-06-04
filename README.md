@@ -13,6 +13,14 @@
 - Strong foundation in Python, JavaScript and frontend Development
 - Interested in building scalable web applications and AI-powered systems
 
+## 📊 GitHub Stats
+
+![Ashwini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwini405&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashwini405)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwini405&layout=compact)
+
 ## 🛠️ Tech Stack
 
 ### Languages
