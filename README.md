@@ -16,6 +16,13 @@
 - Strong foundation in Python, JavaScript and frontend Development
 - Interested in building scalable web applications and AI-powered systems
 
+  ## 🔭 Current Focus
+
+- Full Stack Developer @ Galacticos Network Pvt. Ltd.
+- Building scalable React.js applications
+- Developing REST APIs with Node.js & Express.js
+- Exploring AI-powered systems and automation
+
 ## 💻 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -28,49 +35,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-### Languages
-- Python
-- JavaScript
+### 🚀 [Arvish Consulting](https://www.arvishconsulting.com/)
+Corporate website developed using React.js with responsive design, reusable components, and REST API integration.
 
-### Frontend
-- React.js
-- HTML5
-- CSS3
+### 🚀 [Galacticos Network](https://galacticos-yxlv.vercel.app/)
+Official company website featuring responsive layouts, dynamic content integration, and modern UI/UX.
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-
-### Database
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Power BI
-
-## 📌 Featured Projects
-
-### Arvish Consulting – Corporate Website
-- Developed responsive frontend using React.js
-- Built reusable UI components
-- Integrated REST APIs
-
-### Galacticos Network – Company Website
-- Developed interactive web pages
-- Implemented responsive layouts
-- Integrated dynamic content
-
-### Travel Itinerary Generator
-🏆 Winner – Webzen Hackathon 2025
-
-- Full Stack travel planning application
-- Personalized itinerary generation
-- Smart recommendation system
+### 🚀 [Galacticos Tracker](https://tracker.galacticosnetwork.com)
+Tracking and management platform with dashboards, data visualization, and streamlined operational workflows.
 
 ## 📫 Connect With Me
 
